@@ -244,7 +244,7 @@ const Home = () => {
       {/* Section 1: Quote */}
       <Section>
         <ImageContainer>
-          <Image src="/assets/home1.png" alt="Fashion Model" />
+          <img src="/assets/home1.png" alt="Fashion Model" />
         </ImageContainer>
         <TextContainer>
           <QuoteText>
