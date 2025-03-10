@@ -244,7 +244,7 @@ const Home = () => {
       {/* Section 1: Quote */}
       <Section>
         <ImageContainer>
-          <img src="/assets/home1.png" alt="Fashion Model" />
+          <Image src="`${process.env.PUBLIC_URL}/assets/home1.png" alt="Fashion Model" />
         </ImageContainer>
         <TextContainer>
           <QuoteText>
